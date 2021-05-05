@@ -1,9 +1,8 @@
 ### Hey, I'm João Lucas! :v:
 <br>
-<p>🌱 I'm a Information Systems sophomore student at UFMG - Federal University of Minas Gerais, Brazil.</p>
+<p>🌱 I'm a Information Systems sophomore student at UFMG - Federal University of Minas Gerais. I'm based in Belo Horiznte, Brazil.</p>
 <br>
 <p>🔭I'm currently working on a project aimed to </p>
-<br>
 <br>
 
 ><p>"Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world." - Alan Kay</p>
