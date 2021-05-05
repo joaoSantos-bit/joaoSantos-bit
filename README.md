@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm João Lucas! :v:
 
 <!--
 **joaoSantos-bit/joaoSantos-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
