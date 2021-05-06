@@ -1,6 +1,6 @@
 ### Hey, I'm João Lucas! :v:
 <br>
-<p>🌱 I'm a Information Systems sophomore student at UFMG - Federal University of Minas Gerais. I'm based in Belo Horiznte, Brazil.</p>
+<p>🌱 I'm an Information Systems sophomore student at UFMG - Federal University of Minas Gerais. I'm based in Belo Horiznte, Brazil.</p>
 <br>
 <p>.</p>
 <p>🔭I'm currently working on a project aiming to raise the visibility of a non-profit organization - <a href="https://cddown.org/">CDDown</a> - that help people with mental disabilities.</p>
