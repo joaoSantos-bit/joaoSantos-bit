@@ -13,7 +13,7 @@
 <br>
 
 ### What I'm focusing on :computer: :hearts:
-<p>I'm currently focusing on my university studies, learning how to get my interpersonal skills to the next level, and get computational real-world experience to be a better person and a better professional.</p>
+<p>I'm currently focusing on my university studies, learning how to get my interpersonal skills to the next level, and get computational real-world experience.</p>
 <br>
 
 ### Find me elsewhere :earth_americas:
