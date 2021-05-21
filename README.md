@@ -14,7 +14,6 @@
 
 ### What I'm focusing on :computer: :hearts:
 <p>I'm learning Machine Learn by myself besides my university studies.</p>
-<p><>
 <br>
 
 ### Find me elsewhere :earth_americas:
