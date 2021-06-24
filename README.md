@@ -12,10 +12,6 @@
 <p>🔭I'm currently working on a project aiming to raise the visibility of a non-profit organization - <a href="https://cddown.org/">CDDown</a> - that help people with mental disabilities. Besides that, I'm looking for broaden my knowledge in Data Analytics and learn Artificial Intelligence.</p>
 <br>
 
-### What I'm focusing on :computer: :hearts:
-<p>I'm learning Machine Learn by myself besides my university studies.</p>
-<br>
-
 ### Find me elsewhere :earth_americas:
 
 joaolucasrochasantos1998 **at** gmail **dot** com
