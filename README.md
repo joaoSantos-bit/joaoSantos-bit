@@ -1,6 +1,6 @@
 ### Hey, I'm João Lucas! :v:
 <br>
-<p>🌱 I'm an Information Systems sophomore student at UFMG - Federal University of Minas Gerais. I'm based in Belo Horizonte, Brazil.</p>
+<p>🌱 I'm an Information Systems student at Federal University of Minas Gerais (UFMG). I'm based in Belo Horizonte, Brazil.</p>
 <br>
 
 <p>⚡ I'm passionate about how mathematics can impact people's lives through computer science, and I strongly believe that those who have solid computational skills should contribute to a better world, even a little.</p>
@@ -9,7 +9,7 @@
 ><p>"Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world." - Alan Kay</p>
 <br>
 
-<p>🔭I'm currently working on a project aiming to raise the visibility of a non-profit organization - <a href="https://cddown.org/">CDDown</a> - that help people with mental disabilities. Besides that, I'm looking for broaden my knowledge in Data Analytics and learn Artificial Intelligence.</p>
+<p>🔭I'm currently working on a Data Science project at the Computer Science Department (DCC/UFMG). Besides that, I'm looking for deepen my knowledge in Data Analytics and Machine Learning.</p>
 <br>
 
 ### Find me elsewhere :earth_americas:
