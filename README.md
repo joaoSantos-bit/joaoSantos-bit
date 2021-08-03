@@ -14,7 +14,7 @@
 
 ### Find me elsewhere :earth_americas:
 
-joaolucasrochasantos1998@gmail.com
+maxjoao@ufmg.br
 
 ##
 
