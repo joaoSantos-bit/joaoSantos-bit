@@ -1,6 +1,6 @@
 ### Hey, I'm João Lucas! :v:
 <br>
-<p>🌱 I'm an Information Systems student at Federal University of Minas Gerais (UFMG). I'm based in Belo Horizonte, Brazil.</p>
+<p>🌱 I'm an Information Systems undergraduate student at Federal University of Minas Gerais (UFMG). I'm based in Belo Horizonte, Brazil.</p>
 <br>
 
 <p>⚡ I'm passionate about how mathematics can impact people's lives through computer science, and I highly believe that those who have solid computational skills should contribute to a better world, even a little.</p>
