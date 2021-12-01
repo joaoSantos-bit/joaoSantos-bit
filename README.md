@@ -9,7 +9,6 @@
 ><p>"Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world." - Alan Kay</p>
 <br>
 
-<p>🔭 I'm currently working on a Data Science project at the Computer Science Department (DCC/UFMG).</p>
 <br>
 
 ### Find me elsewhere :earth_americas:
